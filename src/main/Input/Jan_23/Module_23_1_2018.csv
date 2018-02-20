@@ -1,0 +1,3 @@
+StationName;Long;Lat;ModuleName;ModuleType
+Jan2;12.500643;55.666653;Module;Outdoor
+Timestamp;"Timezone : Europe/Copenhagen";Temperature;Humidity
